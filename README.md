@@ -98,11 +98,11 @@ To deploy this project
 
 
 ## 🔗 Contact Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tejasmedade.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://satyam0337.github.io/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TejasMedade)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-526004237/)
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TejasMedade)
+
 
 
 ## Contributions
@@ -120,6 +120,7 @@ Don't forget to give the project a star! Thanks again!
 - [@Rahul Rathod](https://www.github.com/rahulrathore2110)
 - [@Deepti Bagel](https://www.github.com/dipti1144)
 - [@Sandeep Gond](https://www.github.com/Sandeepgond)
+- [@Satyam Kumar](https://www.github.com/satyam0337)
 
 ## Acknowledgements
 
